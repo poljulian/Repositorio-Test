@@ -1,2 +1,2 @@
 # Repositorio-Test
-* Prueba *
+*Prueba*
